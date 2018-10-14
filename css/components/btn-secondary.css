@@ -1,0 +1,16 @@
+.btn-secondary{
+	color: #fff;
+	font-size: 40px !important;
+	font-style: bold !important;
+	background-color: #959a9f;
+	border-color: #fff !important;
+	
+} 
+
+.btn-lg {
+	padding: 0.5rem 1rem;
+	font-size: 1.2rem;
+	line-height: 1.6;
+	border-radius: 0.5rem;
+	border-color: #fff !important;
+}

@@ -1,0 +1,43 @@
+.center-block {
+	width:900px !important;
+	height: auto !important;
+	box-sizing: border-box;
+}
+
+.top-block {
+	width: 950px !important;
+	height: 50px !important;
+	box-sizing: border-box;
+}
+
+.right-block {
+	width: 440px;
+	height: 90px;
+}
+
+.left-block {
+	width: 440px;
+	height: 100px;
+}
+
+.logo-block {
+	width: 250px;
+	height: auto;
+}
+
+.btn-block {
+	width: 950px;
+	height: 100px;
+	box-sizing: border-box;
+	position: absolute;
+}
+
+
+.bottom-block{
+	width: 950px;
+	height: 110px;
+}
+
+
+
+
